@@ -16,7 +16,7 @@
 title: Hack on GitHub Pages
 description: >
   This site will get you started hacking with GitHub Pages.
-baseurl: "/sophia-lee" # the subpath of your site
+baseurl: "/tamuhack" # the subpath of your site
 url: "https://sophia-lee.github.io"
 email: sophia.lee0416@gmail.com
 github_username:  sophia-lee
